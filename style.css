@@ -46,9 +46,9 @@
     .text{
         padding: 1px 10px; 
     }
-}
 
-img{
-    width: 80%;
-    justify-content: center;
+    img{
+        width: 80%;
+        justify-content: center;
+    }
 }
