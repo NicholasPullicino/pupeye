@@ -38,4 +38,8 @@
     .logo{
         background-image: url(./Assets/logo.png);
     }
+
+    .text{
+        margin-left: 10px;
+    }
 }
