@@ -27,7 +27,9 @@
     }
     
     .card-logo{
+        height: 100%;
         margin-bottom: 15px;
+        background-size: cover;
         padding: 5px;
     }
     
